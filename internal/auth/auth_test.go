@@ -57,6 +57,4 @@ func TestGetAPIKey(t *testing.T) {
 			}
 		})
 	}
-
-	t.Errorf("Force break")
 }
